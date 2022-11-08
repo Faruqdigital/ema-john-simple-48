@@ -44,6 +44,10 @@
     background-color: orange;
 }
 
+.cart-container{
+    background-color: #FFE0B3;
+}
+
 @media screen and (max-width:1100px) {
     .products-container{
         grid-template-columns: repeat(2, 1fr);
