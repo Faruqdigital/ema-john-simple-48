@@ -28,7 +28,8 @@
 }
 .btn-cart{
     width: 100%;
-    background: #FFE0B3;
+    background: #5D5FEF;
+    color: white;
     border: none;
     border-radius: 0px 0px 8px 8px;
     position: absolute;
@@ -48,8 +49,3 @@
     background-color: #FFE0B3;
 }
 
-@media screen and (max-width:1100px) {
-    .products-container{
-        grid-template-columns: repeat(2, 1fr);
-    }
-}
